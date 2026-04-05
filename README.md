@@ -123,14 +123,7 @@ intern_gap_analysis.csv
 * High gap scores indicate strong mismatch with job market
 * Clustering helps identify common learning paths
 
----
 
-## 📌 Future Improvements
-
-* Add recommendation system (courses for each gap)
-* Build interactive UI (Gradio)
-* Deploy on Hugging Face Spaces
-* Improve skill extraction using NLP
 
 ---
 
